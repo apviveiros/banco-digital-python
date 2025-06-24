@@ -1,21 +1,22 @@
-# 💰 Sistema Bancário em Python
+<h1 align="center">💰 Banco Digital em Python</h1>
 
-Este projeto foi desenvolvido como parte da trilha de Python da DIO (Digital Innovation One).
+<p align="center">
+  <strong>Desafio da DIO | Sistema Bancário via Terminal</strong><br>
+  Simulação de depósitos, saques e extrato com controle de fluxo em Python.
+</p>
+
+---
 
 ## 🚀 Funcionalidades
 
-- Criar contas fictícias
+- Criar contas (simples)
 - Realizar depósitos
 - Efetuar saques com limite
 - Visualizar extrato
-- Limite de 3 saques diários com valor máximo de R$500
-
-## 🛠️ Tecnologias utilizadas
-
-- Python 3
+- Limite de 3 saques por dia de até R$500
 
 ## 📦 Como executar
 
-1. Clone este repositório:
+1. Clone o repositório:
 ```bash
-git clone https://github.com/apviveiros/sistema-bancario-python.git
+git clone https://github.com/apviveiros/banco-digital-python.git

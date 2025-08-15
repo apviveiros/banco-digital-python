@@ -1,30 +1,38 @@
-# 💳 Banco Digital em Python
+# 🏦 Banco Digital Python
 
-Este projeto é uma simulação de um sistema bancário simples desenvolvido em Python. Ele permite realizar operações básicas como criação de contas, depósitos, saques e consulta de extrato, utilizando programação orientada a objetos (POO).
+Este projeto é uma simulação de um banco digital desenvolvido em Python, utilizando **Programação Orientada a Objetos (POO)**. Ele permite criar contas, realizar depósitos, saques e consultar extratos.
+
+Você também pode testar o projeto **online no Google Colab**, sem precisar instalar nada no seu computador.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- **Criar contas**: Cadastro de clientes com nome, CPF e saldo inicial.
-- **Depositar valores**: Adiciona saldo à conta do cliente.
-- **Efetuar saques**: Realiza saques respeitando o saldo disponível e o limite diário.
-- **Visualizar extrato**: Exibe histórico de transações realizadas.
-- **Limite de saques**: Restrição de até 3 saques por dia, com valor máximo de R$500 por saque.
+- Criar contas com nome, CPF e saldo inicial
+- Depositar valores
+- Sacar valores (com verificação de saldo)
+- Consultar extrato de operações
+- Mini-menu interativo para testar todas as funcionalidades facilmente no Colab
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Linguagem**: Python 3
-- **Paradigma**: Programação Orientada a Objetos (POO)
-- **Estruturas de Dados**: Listas e dicionários
+- Python 3  
+- Programação Orientada a Objetos (POO)  
+- Google Colab (para execução online)
 
 ---
 
 ## 📦 Como Executar
 
-1. Clone o repositório:
+### 1️⃣ Testar no Colab (recomendado)
+Abra o projeto neste link:  
+[**Banco Digital Python - Colab**](https://colab.research.google.com/drive/SEU_LINK_DO_COLAB)
 
-   ```bash
-   git clone https://github.com/apviveiros/banco-digital-python.git
+Siga as instruções do mini-menu para criar conta, depositar, sacar e ver extrato.
+
+### 2️⃣ Executar localmente
+1. Clone o repositório:
+```bash
+git clone https://github.com/apviveiros/banco-digital-python.git
